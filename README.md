@@ -1,5 +1,5 @@
 # Welcome to my profile!
-<p> 👦🏼 My name is Washington Mendes, I'm Full stack developer and my main stack is Front end
+<p> 👦🏼 My name is Washington Mendes, I'm Full stack developer and my main stack is PHP
 <br><br>
 💻 Currently I work as a Laravel and PHP developer in FIEC.
 </p>
