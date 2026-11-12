@@ -54,19 +54,6 @@ Desenvolvedor Full Stack com sólida trajetória e forte especialização no eco
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=washingtonmendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonmendes&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=washingtonmendes&theme=tokyonight" alt="Streak de Contribuições" />
-</div>
-
----
-
 ### 💡 Áreas de Destaque & Expertise
 
 - 🐘 **Aplicações Robustas em Laravel:** Desenvolvimento de backends estruturados, autenticações seguras, filas assíncronas, consumo e criação de APIs RESTful.
